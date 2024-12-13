@@ -1,0 +1,15 @@
+{
+    "name": "your-vendor/hs-deduper",
+    "description": "HubSpot company deduplication tool",
+    "require": {
+        "hubspot/api-client": "^10.1",
+        "symfony/console": "^6.3",
+        "vlucas/phpdotenv": "^5.5",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "HsDeduper\\": "src/"
+        }
+    }
+}

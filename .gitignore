@@ -1,0 +1,8 @@
+.env*
+!.env.example
+config/*
+!config/sender_emails_example.json
+vendor/
+.idea/
+.vscode/
+logs/

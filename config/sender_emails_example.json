@@ -1,0 +1,12 @@
+{
+    "senders": [
+        {
+            "email": "example@domain.com",
+            "userId": "userId_from_hubspot"
+        },
+        {
+            "email": "example2@domain.com",
+            "userId": "userId_from_hubspot"
+        }
+    ]
+}
